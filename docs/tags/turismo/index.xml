@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turismo on OQLARR</title>
-    <link>/tags/turismo/</link>
+    <link>https://oqlarr.com/tags/turismo/</link>
     <description>Recent content in Turismo on OQLARR</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2024</copyright>
     <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/turismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oqlarr.com/tags/turismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OQLARR</title>
-      <link>/project/oqlarr_f1/</link>
+      <link>https://oqlarr.com/project/oqlarr_f1/</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/project/oqlarr_f1/</guid>
+      <guid>https://oqlarr.com/project/oqlarr_f1/</guid>
       <description>&lt;iframe &#xA;    src=&#34;https://www.instagram.com/reel/C8cYPCAIn6k/embed&#34; &#xA;    width=&#34;400&#34; &#xA;    height=&#34;555&#34; &#xA;    frameborder=&#34;0&#34; &#xA;    scrolling=&#34;no&#34; &#xA;    allowtransparency=&#34;true&#34;&gt;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
