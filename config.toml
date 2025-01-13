@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://oqlarr.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "OQLARR"
