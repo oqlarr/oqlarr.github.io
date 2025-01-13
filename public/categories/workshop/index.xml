@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on OQLARR</title>
+    <link>//localhost:4321/categories/workshop/</link>
+    <description>Recent content in Workshop on OQLARR</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2024</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A campfire</title>
+      <link>//localhost:4321/talk/campfire/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/talk/campfire/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
