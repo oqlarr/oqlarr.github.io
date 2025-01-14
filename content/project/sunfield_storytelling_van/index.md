@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Campaña promocional
 - Joyería
-date: "2024-09-15"
+date: "2024-11-30"
 draft: false
 excerpt: Este video de storytelling fue creado para la campaña de Rebranding de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single

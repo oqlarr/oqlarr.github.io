@@ -17,6 +17,6 @@ title: Cliente - El Rincón
 ---
 
 <video controls width="300" height="500">
-  <source src="foodtruck_1_compr.mp4" type="video/mp4">
+  <source src="foodtruck_compr.mp4" type="video/mp4">
   Video promocional Cliente - El Rincón
 </video>

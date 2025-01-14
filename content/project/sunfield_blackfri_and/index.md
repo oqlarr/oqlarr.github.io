@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Campaña promocional
 - Joyería
-date: "2024-11-01"
+date: "2024-11-10"
 draft: false
 excerpt: Este video fue creado para la campaña de Black Friday de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single

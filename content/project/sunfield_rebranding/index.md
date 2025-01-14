@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Rebranding
 - Joyería
-date: "2024-09-25"
+date: "2024-09-15"
 draft: false
 excerpt: Este Reel behind-the-scenes fue creado para la campaña de Rebranding de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single
