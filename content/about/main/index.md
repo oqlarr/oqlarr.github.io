@@ -16,8 +16,10 @@ intro: |
   
   **Sales development representative**, Rioja Malo Marketing Digital 360, Remoto (2021-2022)
   
-  **CEO**, iGplus, Aguascalientes, México (2018-2021)
+  **Producciones audiovisuales**, Freelance, desde 2020
   
+  **CEO**, iGplus, Aguascalientes, México (2018-2021)
+
   **Comunicación y medios audiovisuales**, Campaña Electoral Gobierno Estatal, Aguascalientes, México (2016-2018)
   
   **Campaña comerical, voz institucional**, Ayuntamiento de Aguascalientes, México (2016-2018)
