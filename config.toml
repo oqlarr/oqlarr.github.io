@@ -123,15 +123,25 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "Inicio"
+    title = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.header]]
     name = "Portfolio"
     title = "Portfolio de proyectos"
     url = "/project/"
-    weight = 1
+    weight = 2
+  [[menu.header]]
+    name = "Galeria"
+    title = "Galeria de fotos"
+    url = "/"
+    weight = 3
   [[menu.header]]
     name = "Bio"
     title = "Sobre mí"
     url = "/about/"
-    weight = 2
+    weight = 4
     
   # Configure footer  
   # [[menu.footer]]
