@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: Ver todos los proyectos
     text_link_url: /project/
-description: Proyectos creativos y audiovisuales
+description: Proyectos creativos y audiovisuales (con iPhone 15 Pro Max, Canon R8 EOS)
 layout: list-grid
 show_author_byline: false
 show_button_links: false
