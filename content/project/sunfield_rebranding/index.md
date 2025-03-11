@@ -15,6 +15,6 @@ title: Cliente - Sunfield Jewels
 ---
 
 <video controls width="300" height="500">
-  <source src="logoProcess_1.mp4" type="video/mp4">
+  <source src="logoProcess_1.MP4" type="video/mp4">
   Video promocional Cliente - Sunfield Jewels
 </video>

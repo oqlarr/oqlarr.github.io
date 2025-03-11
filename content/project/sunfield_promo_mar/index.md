@@ -15,7 +15,7 @@ featured: true
 title: Cliente - Sunfield Jewels
 ---
 
-<video controls width="500" height="500">
+<video controls width="640" height="360">
   <source src="Mariapromo1.mp4" type="video/mp4">
   Video promocional Cliente - Sunfield Jewels
 </video>
