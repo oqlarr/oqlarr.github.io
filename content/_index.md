@@ -5,12 +5,12 @@ action_type: text
 description: Te doy la bienvenida a mi universo visual. A través del lente de mi cámara, plasmo ideas, emociones, contando historias y perspectivas únicas. Explora, conecta, y descubre mi pasión por el arte audiovisual y fotografía.
 image_left: false
 images:
-- /img/logo_vignette.JPG
+- /img/logo_1000x1000ngtv.png
 show_action_link: true
 show_social_links: true
-subtitle: Creado por Gerardo Guerrero
+subtitle: OQLARR | Creado por Gerardo Guerrero
 text_align_left: false
-title: OQLARR
+title:  
 type: home
 ---
 

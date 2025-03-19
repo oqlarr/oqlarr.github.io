@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "OQLARR"
   orgLocal = ""
   description = "En cada rincón del mundo, hay una mirada, hay una historia esperando ser descubierta a través del lente."
-  favicon = "/img/logo_vignette.JPG"
-  logo = "/img/logo_vignette.JPG"
+  favicon = "/img/texto_oqlarr.png"
+  logo = "/img/logo_1000x1000ngtv.png"
   mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/logo_vignette.JPG"
+  sharing_image = "/img/logo_1000x1000ngtv.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = ""
   
