@@ -8,6 +8,8 @@ show_intro: true
 intro: | 
 
   ### EXPERIENCIA
+  **Producciones audiovisuales**, Freelance, desde 2020
+    
   **Ads, creativo y comercial**, Sunfield Jewels, Barcelona, España (2024-2025)
   
   **Productor de video**, El Rincón, Melbourne, Australia (2022-2023)
@@ -15,8 +17,6 @@ intro: |
   **Marketing creativo y publicidad**, Australian Experience, Melbourne, Australia (2022)
   
   **Sales development representative**, Rioja Malo Marketing Digital 360, Remoto (2021-2022)
-  
-  **Producciones audiovisuales**, Freelance, desde 2020
   
   **CEO**, iGplus, Aguascalientes, México (2018-2021)
 
