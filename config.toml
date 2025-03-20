@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "OQLARR"
   orgLocal = ""
   description = "En cada rincón del mundo, hay una mirada, hay una historia esperando ser descubierta a través del lente."
-  favicon = "/img/texto_oqlarr.png"
-  logo = "/img/logo_1000x1000ngtv.png"
+  favicon = "/img/logo_1000x1000ngtv.png"
+  logo = "/img/texto_oqlarr.png"
   mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer

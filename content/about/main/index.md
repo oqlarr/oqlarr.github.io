@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 title: "" # leave blank to exclude
-number_featured: 7 # pulling from mainSections in config.toml
+number_featured: 10 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
