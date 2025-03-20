@@ -44,12 +44,5 @@
       <guid>https://oqlarr.com/project/sunfield_promo_mar/</guid>
       <description>&lt;video controls width=&#34;640&#34; height=&#34;360&#34;&gt;&#xA;  &lt;source src=&#34;Mariapromo1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
     </item>
-    <item>
-      <title>Cliente - El Rincón</title>
-      <link>https://oqlarr.com/project/_rincon_foodtruck/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/_rincon_foodtruck/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;foodtruck_compr.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - El Rincón&#xA;&lt;/video&gt;</description>
-    </item>
   </channel>
 </rss>
