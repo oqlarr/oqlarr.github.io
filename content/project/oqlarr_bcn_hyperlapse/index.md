@@ -12,6 +12,7 @@ tags:
 - arquitectura
 - paisajes
 - hyperlapse
+featured: true
 title: OQLARR 
 ---
 
