@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortometraje on OQLARR</title>
+    <link>https://oqlarr.com/categories/cortometraje/</link>
+    <description>Recent content in Cortometraje on OQLARR</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2024</copyright>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oqlarr.com/categories/cortometraje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OQLARR</title>
+      <link>https://oqlarr.com/project/oqlarr_cortometraje/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/oqlarr_cortometraje/</guid>
+      <description>&lt;video controls width=&#34;840&#34; height=&#34;560&#34;&gt;&#xA;  &lt;source src=&#34;oqlarr_cafe_comprimido720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
+    </item>
+  </channel>
+</rss>
