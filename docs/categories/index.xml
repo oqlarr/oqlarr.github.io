@@ -6,28 +6,42 @@
     <description>Recent content in Categories on OQLARR</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>2024</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2025 Gerardo Guerrero / OQLARR</copyright>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://oqlarr.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cinematografia</title>
-      <link>https://oqlarr.com/categories/cinematografia/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/cinematografia/</guid>
+      <title>Cinematic Shorts</title>
+      <link>https://oqlarr.com/categories/cinematic-shorts/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/categories/cinematic-shorts/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cortometraje</title>
-      <link>https://oqlarr.com/categories/cortometraje/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/cortometraje/</guid>
+      <title>Commercial Work</title>
+      <link>https://oqlarr.com/categories/commercial-work/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/categories/commercial-work/</guid>
       <description></description>
     </item>
     <item>
-      <title>Storytelling</title>
-      <link>https://oqlarr.com/categories/storytelling/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/storytelling/</guid>
+      <title>Reels</title>
+      <link>https://oqlarr.com/categories/reels/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/categories/reels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Experiments</title>
+      <link>https://oqlarr.com/categories/visual-experiments/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/categories/visual-experiments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OQLARR</title>
+      <link>https://oqlarr.com/categories/oqlarr/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/categories/oqlarr/</guid>
       <description></description>
     </item>
     <item>
@@ -49,41 +63,6 @@
       <link>https://oqlarr.com/categories/fotograf%C3%ADa/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://oqlarr.com/categories/fotograf%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Campaña Promocional</title>
-      <link>https://oqlarr.com/categories/campa%C3%B1a-promocional/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/campa%C3%B1a-promocional/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joyería</title>
-      <link>https://oqlarr.com/categories/joyer%C3%ADa/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/joyer%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rebranding</title>
-      <link>https://oqlarr.com/categories/rebranding/</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/rebranding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deportes</title>
-      <link>https://oqlarr.com/categories/deportes/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/deportes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Campaña Promocional Branding</title>
-      <link>https://oqlarr.com/categories/campa%C3%B1a-promocional-branding/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/categories/campa%C3%B1a-promocional-branding/</guid>
       <description></description>
     </item>
   </channel>

@@ -4,7 +4,7 @@ categories:
 - Campaña promocional
 - Joyería
 date: "2024-11-30"
-draft: false
+draft: true
 excerpt: Este video de storytelling fue creado para la campaña de Rebranding de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single
 subtitle: Storytelling rebranding

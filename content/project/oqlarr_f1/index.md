@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Deportes
 date: "2024-06-19"
-draft: false
+draft: true
 excerpt: Un video del Fan Fest de la formula 1 en Barcelona
 layout: single
 subtitle: Formula 1 en Barcelona

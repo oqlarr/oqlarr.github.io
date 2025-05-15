@@ -6,9 +6,9 @@ cascade:
   show_post_date: false
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: Ver todos los proyectos
+    text_link_label: Ver todos mis proyectos
     text_link_url: /project/
-description: Proyectos creativos y audiovisuales (con iPhone Pro Max, Canon R8 EOS, Gimbal DJI Osmo 7P)
+description: Proyectos creativos y audiovisuales (con iPhone Pro Max, Canon R8 EOS, Gimbal DJI Osmo 7P, Gimbal DJI RS 3 Mini)
 layout: list-grid
 show_author_byline: false
 show_button_links: false

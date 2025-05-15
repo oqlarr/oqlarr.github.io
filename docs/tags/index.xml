@@ -6,35 +6,35 @@
     <description>Recent content in Tags on OQLARR</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>2024</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2025 Gerardo Guerrero / OQLARR</copyright>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://oqlarr.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canon</title>
+      <link>https://oqlarr.com/tags/canon/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/tags/canon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gimbal</title>
+      <link>https://oqlarr.com/tags/gimbal/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/tags/gimbal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IPhone</title>
+      <link>https://oqlarr.com/tags/iphone/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/tags/iphone/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Arquitectura</title>
       <link>https://oqlarr.com/tags/arquitectura/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://oqlarr.com/tags/arquitectura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cortometraje</title>
-      <link>https://oqlarr.com/tags/cortometraje/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/cortometraje/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paisajes</title>
-      <link>https://oqlarr.com/tags/paisajes/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/paisajes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Storytelling</title>
-      <link>https://oqlarr.com/tags/storytelling/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/storytelling/</guid>
       <description></description>
     </item>
     <item>
@@ -42,6 +42,13 @@
       <link>https://oqlarr.com/tags/hyperlapse/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://oqlarr.com/tags/hyperlapse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paisajes</title>
+      <link>https://oqlarr.com/tags/paisajes/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/tags/paisajes/</guid>
       <description></description>
     </item>
     <item>
@@ -63,48 +70,6 @@
       <link>https://oqlarr.com/tags/paisaje/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://oqlarr.com/tags/paisaje/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joyeria</title>
-      <link>https://oqlarr.com/tags/joyeria/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/joyeria/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Promo</title>
-      <link>https://oqlarr.com/tags/promo/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/promo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deporte</title>
-      <link>https://oqlarr.com/tags/deporte/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/deporte/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Turismo</title>
-      <link>https://oqlarr.com/tags/turismo/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/turismo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Branding</title>
-      <link>https://oqlarr.com/tags/branding/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/branding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Transporte</title>
-      <link>https://oqlarr.com/tags/transporte/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/tags/transporte/</guid>
       <description></description>
     </item>
   </channel>

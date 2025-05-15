@@ -5,7 +5,7 @@ categories:
 - Cortometraje
 - Storytelling
 date: "2025-04-15"
-draft: false
+draft: true
 excerpt: Cortometraje - Barcelona siempre tiene una historia que contar
 layout: single
 subtitle: Mini clip de resiliencia y amor propio
@@ -14,7 +14,7 @@ tags:
 - paisajes
 - cortometraje
 - storytelling
-featured: true
+featured: false
 title: OQLARR 
 ---
 

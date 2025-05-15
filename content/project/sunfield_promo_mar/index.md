@@ -4,14 +4,14 @@ categories:
 - Campaña promocional
 - Joyería
 date: "2024-09-20"
-draft: false
+draft: true
 excerpt: Este video fue creado para la campaña de Rebranding de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single
 subtitle: Campaña promocional
 tags:
 - promo
 - joyeria
-featured: true
+featured: false
 title: Cliente - Sunfield Jewels
 ---
 

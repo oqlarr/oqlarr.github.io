@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Campaña promocional branding
 date: "2023-10-15"
-draft: false
+draft: true
 excerpt: Este video fue creado para la campaña promocional de Zoomo, una marca de bicicletas eléctricas en Australia. 
 layout: single
 subtitle: Campaña promocional
@@ -11,7 +11,7 @@ tags:
 - promo
 - transporte
 - branding
-featured: true
+featured: false
 title: Cliente - Zoomo
 ---
 

@@ -4,7 +4,7 @@ categories:
 - Rebranding
 - Joyería
 date: "2024-09-15"
-draft: false
+draft: true
 excerpt: Este Reel behind-the-scenes fue creado para la campaña de Rebranding de Sunfield Jewels, una empresa catalana de joyería. 
 layout: single
 subtitle: Reel behind-the-scenes

@@ -6,15 +6,36 @@
     <description>Recent content in Un poco de lo mío on OQLARR</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>2024</copyright>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2025 Gerardo Guerrero / OQLARR</copyright>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://oqlarr.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OQLARR</title>
-      <link>https://oqlarr.com/project/oqlarr_cortometraje/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/oqlarr_cortometraje/</guid>
-      <description>&lt;video controls width=&#34;840&#34; height=&#34;560&#34;&gt;&#xA;  &lt;source src=&#34;oqlarr_cafe_comprimido720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
+      <title>Shorts cinematográficos</title>
+      <link>https://oqlarr.com/project/cortometraje/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/cortometraje/</guid>
+      <description>&lt;div class=&#34;flex flex-wrap justify-center items-start&#34;&gt;&#xA;  &lt;div class=&#34;w-100 pa3 center&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--16x9&#34;&gt;&#xA;      &lt;video id=&#34;cafeVideo&#34;&#xA;             class=&#34;aspect-ratio--object pointer&#34;&#xA;             preload=&#34;auto&#34;&#xA;             playsinline&gt;&#xA;        &lt;source src=&#34;https://oqlarr.com/vid/oqlarr_cafe_comprimido720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;        Your browser does not support the video tag.&#xA;      &lt;/video&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt3 tc&#34;&gt;Mini clip de resiliencia y amor propio.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;  const cafeVideo = document.getElementById(&#34;cafeVideo&#34;);&#xA;&#xA;  cafeVideo.addEventListener(&#34;click&#34;, function () {&#xA;    cafeVideo.muted = false;&#xA;    cafeVideo.play();&#xA;&#xA;    if (cafeVideo.requestFullscreen) {&#xA;      cafeVideo.requestFullscreen();&#xA;    } else if (cafeVideo.webkitRequestFullscreen) {&#xA;      cafeVideo.webkitRequestFullscreen();&#xA;    } else if (cafeVideo.msRequestFullscreen) {&#xA;      cafeVideo.msRequestFullscreen();&#xA;    }&#xA;  });&#xA;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Trabajos comerciales</title>
+      <link>https://oqlarr.com/project/commercial/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/commercial/</guid>
+      <description>&lt;div class=&#34;flex flex-wrap justify-center items-start&#34;&gt;&#xA;  &lt;!-- Thumbnail 1 --&gt;&#xA;  &lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/1promo Vanessa.png&#34; alt=&#34;Campaña&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&#xA;           onclick=&#34;openVideo(&#39;/vid/1promo Vanessa.mp4&#39;)&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt2 tc&#34;&gt;Campaña de rebranding&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Thumbnail 2 --&gt;&#xA;  &lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/ReelVanLargo1.png&#34; alt=&#34;Storytelling&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&#xA;           onclick=&#34;openVideo(&#39;/vid/ReelVanLargo1.mp4&#39;)&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt2 tc&#34;&gt;Storytelling para campaña de rebranding&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Thumbnail 3 --&gt;&#xA;  &lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/Mariapromo1.png&#34; alt=&#34;Maria promo&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&#xA;           onclick=&#34;openVideo(&#39;/vid/Mariapromo1.mp4&#39;)&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt2 tc&#34;&gt;Campaña de rebranding&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- Thumbnail 4 --&gt;&#xA;  &lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/mariapromo22_1.png&#34; alt=&#34;Behind the scenes&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&#xA;           onclick=&#34;openVideo(&#39;/vid/mariapromo22_1.mp4&#39;)&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt2 tc&#34;&gt;Reel behind-the-scenes campaña de rebranding&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experimentos visuales</title>
+      <link>https://oqlarr.com/project/experimentos/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/experimentos/</guid>
+      <description>&lt;div class=&#34;flex flex-wrap justify-center items-start&#34;&gt;&#xA;  &lt;div class=&#34;w-100 pa3 center&#34;&gt;&#xA;    &lt;div class=&#34;aspect-ratio aspect-ratio--16x9&#34;&gt;&#xA;      &lt;video id=&#34;barnaVideo&#34;&#xA;             class=&#34;aspect-ratio--object pointer&#34;&#xA;             preload=&#34;auto&#34;&#xA;             playsinline&gt;&#xA;        &lt;source src=&#34;https://oqlarr.com/vid/hyperlapse_barna.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;        Your browser does not support the video tag.&#xA;      &lt;/video&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;p class=&#34;f5 mt3 tc&#34;&gt;Hyperlapse de Barcelona en 45 segundos.&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;  const barnaVideo = document.getElementById(&#34;barnaVideo&#34;);&#xA;&#xA;  barnaVideo.addEventListener(&#34;click&#34;, function () {&#xA;    // Play the video with sound&#xA;    barnaVideo.muted = false;&#xA;    barnaVideo.play();&#xA;&#xA;    // Go fullscreen if possible&#xA;    if (barnaVideo.requestFullscreen) {&#xA;      barnaVideo.requestFullscreen();&#xA;    } else if (barnaVideo.webkitRequestFullscreen) {&#xA;      barnaVideo.webkitRequestFullscreen();&#xA;    } else if (barnaVideo.msRequestFullscreen) {&#xA;      barnaVideo.msRequestFullscreen();&#xA;    }&#xA;  });&#xA;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>OQLARR originals</title>
+      <link>https://oqlarr.com/project/originals/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/originals/</guid>
+      <description>&lt;div class=&#34;flex flex-wrap justify-center items-start&#34;&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;  &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;    &lt;a href=&#34;https://www.instagram.com/oqlarr/reel/DI1e5L2sWrK/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/oqlarr_reel_tossa.png&#34; alt=&#34;Reel mostrando Tossa de Mar, Costa Brava&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;f5 mt2 tc&#34;&gt;Reel mostrando Tossa de Mar, Costa Brava&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;  &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;    &lt;a href=&#34;https://www.instagram.com/oqlarr/reel/DJGk1vVsmHf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/oqlarr_reel_apagon.jpeg&#34; alt=&#34;Reel periodístico con un toque de comedia&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;f5 mt2 tc&#34;&gt;Reel periodístico con un toque de comedia&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa3&#34;&gt;&#xA;  &lt;div class=&#34;aspect-ratio aspect-ratio--1x1 bg-light-gray&#34;&gt;&#xA;    &lt;a href=&#34;https://www.instagram.com/reel/C6-vJZ7sHhi/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;      &lt;img src=&#34;https://oqlarr.com/img/thumbnails/oqlarr_reel_bcn.png&#34; alt=&#34;Reel mostrando la belleza de los paisajes y arquitectura de Barcelona&#34;&#xA;           class=&#34;aspect-ratio--object cover pointer dim&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;f5 mt2 tc&#34;&gt;Reel mostrando la belleza de los paisajes y arquitectura de Barcelona&lt;/p&gt;</description>
     </item>
     <item>
       <title>OQLARR</title>
@@ -29,76 +50,6 @@
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://oqlarr.com/project/galeria_fotos/</guid>
       <description>&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;&#34;&gt;&#xA;  &lt;img src=&#34;./foto9.JPG&#34; alt=&#34;Photo 9&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto1.JPG&#34; alt=&#34;Foto 1&#34; style=&#34;width: 100%; height: auto; grid-column: span 3;&#34;&gt;&#xA;  &lt;img src=&#34;./foto4.JPG&#34; alt=&#34;Photo 4&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto2.JPG&#34; alt=&#34;Photo 2&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto3.JPG&#34; alt=&#34;Photo 3&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto5.JPG&#34; alt=&#34;Photo 5&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto6.JPG&#34; alt=&#34;Photo 6&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto8.JPG&#34; alt=&#34;Photo 8&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto7.JPG&#34; alt=&#34;Photo 7&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;./foto10.JPG&#34; alt=&#34;Photo 10&#34; style=&#34;width: 100%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;¡Para más fotografía, puedes visitar mi pagina de &#xA;&lt;a href=&#34;https://instagram.com/oqlarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OQLARR en Instagram&lt;/a&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_storytelling_van/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_storytelling_van/</guid>
-      <description>&lt;video controls width=&#34;640&#34; height=&#34;360&#34;&gt;&#xA;  &lt;source src=&#34;ReelVanLargo1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video storytelling - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_promo_van/</link>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_promo_van/</guid>
-      <description>&lt;video controls width=&#34;640&#34; height=&#34;360&#34;&gt;&#xA;  &lt;source src=&#34;1promo Vanessa.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_blackfri_and/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_blackfri_and/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;andycorr.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_blackfri_elu/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_blackfri_elu/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;1eluska.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_promo_mar/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_promo_mar/</guid>
-      <description>&lt;video controls width=&#34;640&#34; height=&#34;360&#34;&gt;&#xA;  &lt;source src=&#34;Mariapromo1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_bts_mar/</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_bts_mar/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;mariapromo22_1.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Sunfield Jewels</title>
-      <link>https://oqlarr.com/project/sunfield_rebranding/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/sunfield_rebranding/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;logoProcess_1.MP4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Sunfield Jewels&#xA;&lt;/video&gt;</description>
-    </item>
-    <item>
-      <title>OQLARR</title>
-      <link>https://oqlarr.com/project/oqlarr_f1/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/oqlarr_f1/</guid>
-      <description>&lt;iframe &#xA;    src=&#34;https://www.instagram.com/reel/C8cYPCAIn6k/embed&#34; &#xA;    width=&#34;400&#34; &#xA;    height=&#34;555&#34; &#xA;    frameborder=&#34;0&#34; &#xA;    scrolling=&#34;no&#34; &#xA;    allowtransparency=&#34;true&#34;&gt;&#xA;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>OQLARR</title>
-      <link>https://oqlarr.com/project/oqlarr_bcn/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/oqlarr_bcn/</guid>
-      <description>&lt;iframe &#xA;    src=&#34;https://www.instagram.com/reel/C6-vJZ7sHhi/embed&#34; &#xA;    width=&#34;400&#34; &#xA;    height=&#34;555&#34; &#xA;    frameborder=&#34;0&#34; &#xA;    scrolling=&#34;no&#34; &#xA;    allowtransparency=&#34;true&#34;&gt;&#xA;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>Cliente - Zoomo</title>
-      <link>https://oqlarr.com/project/zoomo_bici/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/zoomo_bici/</guid>
-      <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;bikezoomo.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;  Video promocional Cliente - Zoomo&#xA;&lt;/video&gt;</description>
     </item>
   </channel>
 </rss>

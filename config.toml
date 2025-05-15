@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "OQLARR"
 author = "Gerardo Guerrero"
-copyright = "2024" # set to override the auto generated copyright using org info and now year
+copyright = "© 2025 Gerardo Guerrero / OQLARR" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
 metaDataFormat = "yaml"
@@ -109,7 +109,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://linkedin.com/"
+      url       = "https://www.linkedin.com/in/gerardo-guerrero-z/"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"

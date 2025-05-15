@@ -3,7 +3,7 @@ author: Gerardo Guerrero
 categories:
 - Paisajes
 date: "2024-05-14"
-draft: false
+draft: true
 excerpt: Un video mostrando la belleza de los paisajes y arquitectura de Barcelona
 layout: single
 subtitle: Paisajes en Barcelona
