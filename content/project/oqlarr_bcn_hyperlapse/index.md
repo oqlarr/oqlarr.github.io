@@ -4,7 +4,7 @@ categories:
 - Paisajes
 - Hyperlapse
 date: "2025-03-19"
-draft: false
+draft: true
 excerpt: Hyperlapse mostrando Barcelona en 45 segundos
 layout: single
 subtitle: Barcelona en 45 segundos
@@ -12,7 +12,7 @@ tags:
 - arquitectura
 - paisajes
 - hyperlapse
-featured: true
+featured: false
 title: OQLARR 
 ---
 
