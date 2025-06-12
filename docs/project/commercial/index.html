@@ -42,13 +42,13 @@
     
   
   <meta itemprop="name" content="Trabajos comerciales">
-  <meta itemprop="description" content="Campaña de rebranding
-Storytelling para campaña de rebranding
+  <meta itemprop="description" content="Campaña de real estate
 Campaña de rebranding
-Reel behind-the-scenes campaña de rebranding">
+Storytelling para campaña de rebranding
+Campaña de rebranding">
   <meta itemprop="datePublished" content="2025-05-03T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-05-03T00:00:00+00:00">
-  <meta itemprop="wordCount" content="36">
+  <meta itemprop="wordCount" content="40">
   <meta itemprop="image" content="https://oqlarr.com/project/commercial/featured_photo.png">
   <meta itemprop="keywords" content="IPhone,Gimbal,Canon">
   
@@ -159,6 +159,15 @@ Reel behind-the-scenes campaña de rebranding">
       </header>
       <section class="post-body pt5 pb4">
         <div class="flex flex-wrap justify-center items-start">
+  <!-- Real estate -->
+  <div class="w-100 w-50-m w-33-l pa3">
+    <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
+      <img src="/img/thumbnails/bernardi_sign.png" alt="Campaña real estate"
+           class="aspect-ratio--object cover pointer dim"
+           onclick="openVideo('/vid/bernadi.mp4')">
+    </div>
+    <p class="f5 mt2 tc">Campaña de real estate</p>
+  </div>
   <!-- Thumbnail 1 -->
   <div class="w-100 w-50-m w-33-l pa3">
     <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
@@ -232,22 +241,62 @@ Reel behind-the-scenes campaña de rebranding">
     <p class="f5 mt2 tc">Reel lifestyle para campaña promocional para Zoomo Australia</p>
   </div>
 </div>
-<!-- Hidden fullscreen video element -->
+  <!-- Hidden fullscreen video element -->
 <p><video id="fullscreenVideo" controls class="dn" style="width:100%; height:auto;"></video></p>
 <script>
-  function openVideo(src) {
-    const video = document.getElementById('fullscreenVideo');
-    video.src = src;
-    video.classList.remove('dn');
-    video.play();
-    if (video.requestFullscreen) {
-      video.requestFullscreen();
-    } else if (video.webkitRequestFullscreen) {
-      video.webkitRequestFullscreen();
-    } else if (video.msRequestFullscreen) {
-      video.msRequestFullscreen();
+    
+    const fullscreenVideo = document.getElementById('fullscreenVideo');
+  
+    function openVideo(src) {
+      // Pause other videos
+      document.querySelectorAll('video').forEach(v => {
+        if (v !== fullscreenVideo) v.pause();
+      });
+
+    // Set src and show
+    fullscreenVideo.src = src;
+    fullscreenVideo.classList.remove('dn');
+    fullscreenVideo.style.display = 'block'; // ensure it's shown
+    fullscreenVideo.play();
+
+    // Fullscreen
+    if (fullscreenVideo.requestFullscreen) {
+      fullscreenVideo.requestFullscreen();
+    } else if (fullscreenVideo.webkitRequestFullscreen) {
+      fullscreenVideo.webkitRequestFullscreen();
+    } else if (fullscreenVideo.msRequestFullscreen) {
+      fullscreenVideo.msRequestFullscreen();
     }
-  }
+    }
+
+    function hideFullscreenVideo() {
+      fullscreenVideo.pause();
+      fullscreenVideo.src = "";
+      fullscreenVideo.classList.add('dn');
+      fullscreenVideo.style.display = 'none';
+    }
+  
+    // Hide on fullscreen exit
+    document.addEventListener("fullscreenchange", () => {
+      if (!document.fullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    document.addEventListener("webkitfullscreenchange", () => {
+      if (!document.webkitFullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    document.addEventListener("msfullscreenchange", () => {
+      if (!document.msFullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    // Hide when video ends
+    fullscreenVideo.addEventListener("ended", hideFullscreenVideo);
 </script>
 
         
@@ -258,7 +307,7 @@ Reel behind-the-scenes campaña de rebranding">
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 36 words</dd>
+    <dd class="fw5 ml0">1 minute read, 40 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">

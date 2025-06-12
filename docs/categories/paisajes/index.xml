@@ -16,5 +16,12 @@
       <guid>https://oqlarr.com/project/oqlarr_bcn_hyperlapse/</guid>
       <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;hyperlapse_barna.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
     </item>
+    <item>
+      <title>OQLARR</title>
+      <link>https://oqlarr.com/project/oqlarr_bcn/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://oqlarr.com/project/oqlarr_bcn/</guid>
+      <description>&lt;iframe &#xA;    src=&#34;https://www.instagram.com/reel/C6-vJZ7sHhi/embed&#34; &#xA;    width=&#34;400&#34; &#xA;    height=&#34;555&#34; &#xA;    frameborder=&#34;0&#34; &#xA;    scrolling=&#34;no&#34; &#xA;    allowtransparency=&#34;true&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+    </item>
   </channel>
 </rss>

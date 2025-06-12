@@ -42,10 +42,11 @@
     
   
   <meta itemprop="name" content="Experimentos visuales">
-  <meta itemprop="description" content="Your browser does not support the video tag. Hyperlapse de Barcelona en 45 segundos.">
+  <meta itemprop="description" content="Your browser does not support the video tag. Hyperlapse de Barcelona en 45 segundos.
+Your browser does not support the video tag. Hyperlapse real estate.">
   <meta itemprop="datePublished" content="2025-05-01T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-05-01T00:00:00+00:00">
-  <meta itemprop="wordCount" content="14">
+  <meta itemprop="wordCount" content="25">
   <meta itemprop="image" content="https://oqlarr.com/project/experimentos/featured_photo.png">
   <meta itemprop="keywords" content="IPhone,Gimbal,Canon">
   
@@ -155,12 +156,13 @@
 
       </header>
       <section class="post-body pt5 pb4">
-        <div class="flex flex-wrap justify-center items-start">
-  <div class="w-100 pa3 center">
+        <div class="flex flex-wrap items-start justify-center">
+  <div class="w-100 w-75-l pa3">
     <div class="aspect-ratio aspect-ratio--16x9">
-      <video id="barnaVideo"
-             class="aspect-ratio--object pointer"
+      <video class="aspect-ratio--object pointer video-click-fullscreen"
              preload="auto"
+             autoplay
+             muted
              playsinline>
         <source src="/vid/hyperlapse_barna.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -168,26 +170,40 @@
     </div>
     <p class="f5 mt3 tc">Hyperlapse de Barcelona en 45 segundos.</p>
   </div>
+  <div class="w-100 w-75-l pa3">
+    <div class="aspect-ratio aspect-ratio--16x9">
+      <video class="aspect-ratio--object pointer video-click-fullscreen"
+             preload="auto"
+             autoplay
+             muted
+             playsinline
+             poster="/img/thumbnails/bernardi_lobby.png">
+        <source src="/vid/bernadi_hyperlapse.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <p class="f5 mt3 tc">Hyperlapse real estate.</p>
+  </div>
 </div>
 <script>
-  const barnaVideo = document.getElementById("barnaVideo");
+  
+    document.querySelectorAll(".video-click-fullscreen").forEach(function(video) {
+    video.addEventListener("click", function () {
+      // Unmute and play
+      video.muted = false;
+      video.play();
 
-  barnaVideo.addEventListener("click", function () {
-    // Play the video with sound
-    barnaVideo.muted = false;
-    barnaVideo.play();
-
-    // Go fullscreen if possible
-    if (barnaVideo.requestFullscreen) {
-      barnaVideo.requestFullscreen();
-    } else if (barnaVideo.webkitRequestFullscreen) {
-      barnaVideo.webkitRequestFullscreen();
-    } else if (barnaVideo.msRequestFullscreen) {
-      barnaVideo.msRequestFullscreen();
-    }
-  });
+      // Fullscreen
+      if (video.requestFullscreen) {
+        video.requestFullscreen();
+      } else if (video.webkitRequestFullscreen) {
+        video.webkitRequestFullscreen();
+      } else if (video.msRequestFullscreen) {
+        video.msRequestFullscreen();
+      }
+    });
+    });
 </script>
-
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
@@ -196,7 +212,7 @@
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 14 words</dd>
+    <dd class="fw5 ml0">1 minute read, 25 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">
