@@ -11,9 +11,9 @@
     <atom:link href="https://oqlarr.com/categories/cortometraje/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OQLARR</title>
-      <link>https://oqlarr.com/project/oqlarr_cortometraje/</link>
+      <link>https://oqlarr.com/project/_archive/oqlarr_cortometraje/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/oqlarr_cortometraje/</guid>
+      <guid>https://oqlarr.com/project/_archive/oqlarr_cortometraje/</guid>
       <description>&lt;video controls width=&#34;840&#34; height=&#34;560&#34;&gt;&#xA;  &lt;source src=&#34;oqlarr_cafe_comprimido720p.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
     </item>
   </channel>

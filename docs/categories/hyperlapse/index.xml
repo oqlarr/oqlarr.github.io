@@ -11,9 +11,9 @@
     <atom:link href="https://oqlarr.com/categories/hyperlapse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OQLARR</title>
-      <link>https://oqlarr.com/project/oqlarr_bcn_hyperlapse/</link>
+      <link>https://oqlarr.com/project/_archive/oqlarr_bcn_hyperlapse/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://oqlarr.com/project/oqlarr_bcn_hyperlapse/</guid>
+      <guid>https://oqlarr.com/project/_archive/oqlarr_bcn_hyperlapse/</guid>
       <description>&lt;video controls width=&#34;300&#34; height=&#34;500&#34;&gt;&#xA;  &lt;source src=&#34;hyperlapse_barna.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;</description>
     </item>
   </channel>

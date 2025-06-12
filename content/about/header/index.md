@@ -12,9 +12,12 @@ Mi nombre es Gerardo Guerrero, soy Mexicano y vivo en Barcelona, España. Mi pas
 <p style="color: #BECAB0;">Siempre estoy buscando proyectos nuevos, ¡conectemos!</p>
 
 <div style="max-width: 100%; aspect-ratio: 16 / 9;">
-  <video controls style="width: 100%; height: auto;">
+  <video class = preload = "auto"
+    autoplay
+    muted
+    playsinline
+    controls style="width: 100%; height: auto;">
     <source src="BIOqlarr.mp4" type="video/mp4">
     Gerardo Guerrero - quien soy yo
   </video>
 </div>
-
