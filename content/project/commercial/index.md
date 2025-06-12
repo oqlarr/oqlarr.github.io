@@ -16,8 +16,19 @@ featured: true
 title: Trabajos comerciales
 ---
 
-<div class="flex flex-wrap justify-center items-start">
 
+<div class="flex flex-wrap justify-center items-start">
+  
+  <!-- Real estate -->
+  <div class="w-100 w-50-m w-33-l pa3">
+    <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
+      <img src="/img/thumbnails/bernardi_sign.png" alt="Campaña real estate"
+           class="aspect-ratio--object cover pointer dim"
+           onclick="openVideo('/vid/bernadi.mp4')">
+    </div>
+    <p class="f5 mt2 tc">Campaña de real estate</p>
+  </div>
+  
   <!-- Thumbnail 1 -->
   <div class="w-100 w-50-m w-33-l pa3">
     <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
@@ -100,21 +111,62 @@ title: Trabajos comerciales
 
 </div>
 
-<!-- Hidden fullscreen video element -->
+  <!-- Hidden fullscreen video element -->
 <video id="fullscreenVideo" controls class="dn" style="width:100%; height:auto;"></video>
 
 <script>
-  function openVideo(src) {
-    const video = document.getElementById('fullscreenVideo');
-    video.src = src;
-    video.classList.remove('dn');
-    video.play();
-    if (video.requestFullscreen) {
-      video.requestFullscreen();
-    } else if (video.webkitRequestFullscreen) {
-      video.webkitRequestFullscreen();
-    } else if (video.msRequestFullscreen) {
-      video.msRequestFullscreen();
+    
+    const fullscreenVideo = document.getElementById('fullscreenVideo');
+  
+    function openVideo(src) {
+      // Pause other videos
+      document.querySelectorAll('video').forEach(v => {
+        if (v !== fullscreenVideo) v.pause();
+      });
+
+    // Set src and show
+    fullscreenVideo.src = src;
+    fullscreenVideo.classList.remove('dn');
+    fullscreenVideo.style.display = 'block'; // ensure it's shown
+    fullscreenVideo.play();
+
+    // Fullscreen
+    if (fullscreenVideo.requestFullscreen) {
+      fullscreenVideo.requestFullscreen();
+    } else if (fullscreenVideo.webkitRequestFullscreen) {
+      fullscreenVideo.webkitRequestFullscreen();
+    } else if (fullscreenVideo.msRequestFullscreen) {
+      fullscreenVideo.msRequestFullscreen();
     }
-  }
+    }
+
+    function hideFullscreenVideo() {
+      fullscreenVideo.pause();
+      fullscreenVideo.src = "";
+      fullscreenVideo.classList.add('dn');
+      fullscreenVideo.style.display = 'none';
+    }
+  
+    // Hide on fullscreen exit
+    document.addEventListener("fullscreenchange", () => {
+      if (!document.fullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    document.addEventListener("webkitfullscreenchange", () => {
+      if (!document.webkitFullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    document.addEventListener("msfullscreenchange", () => {
+      if (!document.msFullscreenElement) {
+        hideFullscreenVideo();
+      }
+    });
+  
+    // Hide when video ends
+    fullscreenVideo.addEventListener("ended", hideFullscreenVideo);
 </script>
+

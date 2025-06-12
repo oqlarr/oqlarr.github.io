@@ -16,13 +16,14 @@ featured: true
 title: Experimentos visuales
 ---
 
-<div class="flex flex-wrap justify-center items-start">
+<div class="flex flex-wrap items-start justify-center">
 
-  <div class="w-100 pa3 center">
+  <div class="w-100 w-75-l pa3">
     <div class="aspect-ratio aspect-ratio--16x9">
-      <video id="barnaVideo"
-             class="aspect-ratio--object pointer"
+      <video class="aspect-ratio--object pointer video-click-fullscreen"
              preload="auto"
+             autoplay
+             muted
              playsinline>
         <source src="/vid/hyperlapse_barna.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -30,24 +31,42 @@ title: Experimentos visuales
     </div>
     <p class="f5 mt3 tc">Hyperlapse de Barcelona en 45 segundos.</p>
   </div>
-
+  
+  <div class="w-100 w-75-l pa3">
+    <div class="aspect-ratio aspect-ratio--16x9">
+      <video class="aspect-ratio--object pointer video-click-fullscreen"
+             preload="auto"
+             autoplay
+             muted
+             playsinline
+             poster="/img/thumbnails/bernardi_lobby.png">
+        <source src="/vid/bernadi_hyperlapse.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <p class="f5 mt3 tc">Hyperlapse real estate.</p>
+  </div>
+  
 </div>
 
+
+
 <script>
-  const barnaVideo = document.getElementById("barnaVideo");
+  
+    document.querySelectorAll(".video-click-fullscreen").forEach(function(video) {
+    video.addEventListener("click", function () {
+      // Unmute and play
+      video.muted = false;
+      video.play();
 
-  barnaVideo.addEventListener("click", function () {
-    // Play the video with sound
-    barnaVideo.muted = false;
-    barnaVideo.play();
-
-    // Go fullscreen if possible
-    if (barnaVideo.requestFullscreen) {
-      barnaVideo.requestFullscreen();
-    } else if (barnaVideo.webkitRequestFullscreen) {
-      barnaVideo.webkitRequestFullscreen();
-    } else if (barnaVideo.msRequestFullscreen) {
-      barnaVideo.msRequestFullscreen();
-    }
-  });
+      // Fullscreen
+      if (video.requestFullscreen) {
+        video.requestFullscreen();
+      } else if (video.webkitRequestFullscreen) {
+        video.webkitRequestFullscreen();
+      } else if (video.msRequestFullscreen) {
+        video.msRequestFullscreen();
+      }
+    });
+    });
 </script>
