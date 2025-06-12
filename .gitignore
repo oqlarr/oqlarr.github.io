@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
-public
+/public
+Thumbs.db
+.hugo_build.lock
