@@ -5,7 +5,7 @@ categories:
 - Reels
 date: "2025-05-03"
 draft: false
-excerpt: Trabajos realizados para marcas que buscan contar su historia con estilo y propósito. Desde productos hasta lifestyle, mis videos combinan dirección visual, edición precisa y un enfoque creativo para conectar con su audiencia según tendencias y targets comerciales.
+excerpt: Trabajos realizados para marcas y clientes que buscan contar su historia con estilo y propósito. Desde productos hasta lifestyle, mis videos combinan dirección visual, edición precisa y un enfoque creativo para conectar con su audiencia según tendencias y targets comerciales.
 layout: single
 subtitle: Canon R8 EOS, iPhone 16 Pro Max, Gimbal DJI Osmo 7P
 tags:
@@ -13,11 +13,31 @@ tags:
 - Gimbal
 - Canon 
 featured: true
-title: Trabajos comerciales
+title: Trabajos publicitarios/RRSS
 ---
 
 
 <div class="flex flex-wrap justify-center items-start">
+  
+  <!-- Fashion film -->
+  <div class="w-100 w-50-m w-33-l pa3">
+    <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
+      <img src="/img/thumbnails/ana_ceci.png" alt="Campaña fashion film"
+           class="aspect-ratio--object cover pointer dim"
+           onclick="openVideo('/vid/anaceci_portfolio.mp4')">
+    </div>
+    <p class="f5 mt2 tc">✨Fashionfilm en Barcelona✨</p>
+  </div>
+  
+  <!-- Makeup masterclass -->
+  <div class="w-100 w-50-m w-33-l pa3">
+    <div class="aspect-ratio aspect-ratio--1x1 bg-light-gray">
+      <img src="/img/thumbnails/makeup_masterclass.png" alt="Reel makeup masterclass"
+           class="aspect-ratio--object cover pointer dim"
+           onclick="openVideo('/vid/makeup_masterclass_720.mp4')">
+    </div>
+    <p class="f5 mt2 tc">Reel makeup masterclass</p>
+  </div>
   
   <!-- Real estate -->
   <div class="w-100 w-50-m w-33-l pa3">
