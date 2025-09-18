@@ -13,7 +13,7 @@ tags:
 - Gimbal
 - Canon 
 featured: true
-title: Trabajos publicitarios/RRSS
+title: Trabajos publicitarios y RRSS
 ---
 
 
